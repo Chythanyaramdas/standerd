@@ -1,0 +1,233 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+
+.f-nav{
+    display: flex;
+    
+    justify-content: center;
+    justify-content: space-around;
+    background-color: palevioletred;
+    padding:18px;
+}
+.feature{
+    display: flex;
+
+}
+.feature.app{
+    display: flex;
+    margin-inline: 22px;
+}
+.feature.app i{
+    margin-inline: 8px;
+
+
+}
+.sec-nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding:11px;
+
+}
+.sec-nav ul li img{
+    width:3%;
+    margin-left: 22px;
+
+
+
+}
+.sec.nav ul li a{
+    margin-inline: 22px;
+
+}
+.sec.nav .inputs{
+    display: flex;
+
+}
+
+.sec.nav.inputs button{
+    margin-inline: 22px;
+
+}
+
+.sec.nav.inputs input{
+    width: 220px;
+    background-color: gray;
+    border:none;
+    outline: none;
+    text-align: center;
+    font-size: 16px;
+
+}
+.sec-nav.inputs button{
+    width:80px;
+    height: 35px;
+    background-color: palevioletred;
+    color: white;
+    font-size: 17px;
+    border:none;
+    border-radius: 5px;
+
+}
+.items{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 5px;
+}
+.items ul li a{
+    list-style: none;
+    margin-inline: 22px;
+    text-align: center;
+
+}
+.items ul li button{
+    width:100px;
+    height:34px;
+    background-color: palevioletred;
+    color: white;
+    font-size: 17px;
+    border:none;
+    border-radius: 5px;
+
+
+}
+.items ul li{
+    list-style: none;
+
+}
+.main-page img{
+
+    width: 100%;
+}
+.pink img{
+    width:100%;
+
+}
+.pink h2{
+    text-align: center;
+    padding:7px;
+}
+.brands h2{
+    text-align: center;
+
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    margin-top: 33px;
+
+
+}
+.card img{
+    margin-inline: 22px;
+    width:44%;
+}
+.brand h2{
+    text-align: center;
+    padding: 22px;
+}
+.topbrd{
+    display: flex;
+
+}
+.topbrd img{
+    margin-inline:22px;
+    width:44%;
+}
+.only-nykaa h2{
+    text-align: center;
+    padding: 22px;
+     
+}
+.only-nykaa.only{
+
+    display: flex;
+    justify-content: center;
+
+    justify-content: space-around;
+}
+.only img{
+
+    width:44%;
+    margin-inline: 22px;
+}
+
+.makeup{
+    display: flex;
+    justify-content: center;
+
+    justify-content: space-around;
+    padding:42px;
+}
+
+
+.makeup img{
+    width:22%;
+    margin-inline: 18px;
+
+}
+.special h2{
+    text-align: center;
+    padding: 22px
+
+}
+.specical .curation{
+    display: flex;
+    justify-content: center;
+
+    justify-content: space-around;
+    
+
+}
+.curation img{
+    margin-inline: 22px;
+    width:44%;
+
+
+}
+.beauty h2{
+    text-align: center;
+    padding: 22px;
+
+}
+
+.beauty.advice{
+    display: flex;
+    justify-content: center;
+
+    justify-content: space-around;
+    
+
+
+}
+.advice img{
+    margin-inline: 22px;
+    width:44%;
+
+
+}
+.footer-nav{
+display: flex;
+justify-content: space-around;
+}
+
+.footer{
+    background-color: rgb(206, 200, 200);
+    padding-top: 20px;
+}
+li{
+    margin-top: 10px;
+    text-decoration: none;
+    text-decoration-style: none;
+}
+a{
+    margin-top: 10px;
+}
+ul{
+    text-decoration: none;
+    text-decoration-style: none;
+}
